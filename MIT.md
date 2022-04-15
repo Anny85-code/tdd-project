@@ -1,6 +1,6 @@
 MIT License
 
-## Copyright (c) 2022 Tekle, Aniekan Udo, Angel Orozco
+## Copyright (c) 2022 Aniekan Udo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

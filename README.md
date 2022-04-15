@@ -41,19 +41,7 @@ $ rspec spec
 - GitHub: [@Anny85-code](https://github.com/Anny85-code)
 - Twitter: [@Annyudo8](https://twitter.com/Anny_udo8)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/aniekan-udo-665b65213/)
-- 
-👤 **Tekle Gebreyohannes**
-
-- GitHub: [@gtekle](https://github.com/gtekle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/gtekle)
-
-
-👤 **Angel Orozco**
-
-- GitHub: [@orozCoding](https://github.com/orozcoding)
-- Twitter: [@orozCoding](https://twitter.com/orozcoding)
-- LinkedIn: [Angel Orozco](linkedin.com/in/angel-orozco)
-
+  
 
 ## 🤝 Contributing
 
